@@ -1,4 +1,17 @@
-# React + TypeScript + Vite
+# FrontEnd -  React + TypeScript + Vite + Tailwind
+
+Login, cadastro e listagem de produtos.
+
+
+
+
+
+
+
+
+
+
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
